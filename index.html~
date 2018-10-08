@@ -1,0 +1,121 @@
+
+<HTML>
+<div class="relative">sssss</div>
+<head>
+<title>Caroline Dakouré - Website</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<link rel=stylesheet href=./style.css type=text/css>
+<link rel="icon" type="image/png" href="favicon.png" />
+</head>
+<div class="header">
+GREAT WEBSITE
+</div>
+
+<body>
+<div class="conteneur">
+<img src="lien-icone.png" class="photo">
+<img src="lien-icone.png" class="photo2">
+<img src="lien-icone.png" class="photo3">
+<img src="lien-icone.png" class="photo4">
+<div class="menu1">
+
+ 	 <ul>
+                <li><a href="index.html">Accueil</a></li>
+
+                <li><a href="tp1.html">TP1</a></li>
+
+                <li><a href="tp2.html">TP2</a></li>
+
+		<li><a href="tp3.html">TP3</a></li>
+
+		<li><a href="tp4.html">TP4</a></li>
+		
+		<li><a href="tp5.html">TP5</a></li>
+
+            </ul>
+<hr class="trait"/>
+<p><font size=-1>Bonjour et bienvenue sur mon site ! Au programme une présentation des TP de C2I réalisés au cours du semestre 4.</font></p>
+
+<div class="try">
+<hr class="trait"/>
+<p>Musique</p>
+
+<audio id="player" src="music.mp3" loop controls>
+
+</audio>
+</div>
+
+<p>
+<hr class="trait"/>
+
+</p>
+
+
+</div>
+<div class="bloc1">
+<div class="bloc2">
+<p>	
+<h2><marquee><U>Concepts et outils de base en informatique</U></marquee></h2><img src="s-lol.png" height="15%" width="35%" align="right"> 
+<h4>Présentation Travail</h4>
+
+<ul class="ingredients">
+	<li><a href="tp1.html">Accéder au contenu du TP1</a>
+	<li><a href="tp2.html">Accéder au contenu du TP2</a>
+	<li><a href="tp3.html">Accéder au contenu du TP3</a>
+	<li><a href="tp4.html">Accéder au contenu du TP4</a>
+	<li><a href="tp5.html">Accéder au contenu du TP5</a>
+
+</ul>
+</p>
+</div>
+
+
+<div class="textali">
+<h3>A PROPOS</h3>
+
+<p>
+Bonjour et bienvenue sur mon site ! Au programme une présentation des TP de C2I réalisés au cours du semestre 4.
+
+ </p>
+
+<p>
+Qui suis-je :
+
+Caroline Dakouré, étudiante en L2 Informatique.
+
+</p>
+
+<I><B>Mes passions </B></I>
+<p>
+Mes passions m'attirent et me donnent le sentiment d'être pleinement Vivante. J'aime le vent qui souffle, j'aime le vent qui gronde, le vent dans tous ses états.
+Je suis également passionnée de lecture ainsi que d'écriture. La musique  
+</p>
+
+<I><B>Mes motivations </B></I>
+<p>
+J'aimerai m’orienter vers le métier d’Ingénieur en Intelligence Artificielle car il allie la programmation et le comportement humain.
+C’est fascinant, les programmes doivent raisonner comme des humains, ils sont
+novateurs.
+Je suis fascinée par le comportement humain, la société et j’aimerai développer ma capacité d’analyse.
+<p><a href="cv.pdf">Lien vers mon CV</a></p>
+ </p>
+
+
+
+ <hr>
+<p>
+<font size=-1>Note: C2i = certificat informatique et internet. Il Atteste de compétences de base en informatique, c'est une certification nationale, valorisable dans le parcours universitaire ou professionnel. 
+A l'UM, l'obtention de l'UE et de toutes les parties du QCM final permet de valider le C2i-niveau 1, le C2i-niveau 2 se passe en master.
+ </font>
+</p>
+
+</p>
+
+</div>
+</div>
+</div>
+<div class="foot">
+All rights reserved.
+</div>
+</body>
+</HTML>

@@ -1,0 +1,107 @@
+
+<HTML>
+<Head>
+<title>Caroline Dakouré - TP1</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<link rel=stylesheet href=./style.css type=text/css>
+<link rel="icon" type="image/png" href="favicon.png" />
+</Head>
+
+<div class="header">
+GREAT WEBSITE
+</div>
+<body>
+<div class="conteneur">
+<img src="lien-icone.png" class="photo">
+<img src="lien-icone.png" class="photo2">
+<img src="lien-icone.png" class="photo3">
+<img src="lien-icone.png" class="photo4">
+<div class="menu1">
+
+ 	 <ul>
+                <li><a href="index.html">Accueil</a></li>
+
+                <li><a href="tp1.html">TP1</a></li>
+
+                <li><a href="tp2.html">TP2</a></li>
+
+		<li><a href="tp3.html">TP3</a></li>
+
+		<li><a href="tp4.html">TP4</a></li>
+		
+		<li><a href="tp5.html">TP5</a></li>
+
+            </ul>
+<hr class="trait"/>
+<p><font size=-1>Bonjour et bienvenue sur mon site ! Au programme une présentation des TP de C2I réalisés au cours du semestre 4.</font></p>
+
+<div class="try">
+<hr class="trait"/>
+<p>Musique</p>
+
+<audio id="player" src="music.mp3" loop controls>
+
+</audio>
+</div>
+
+<p>
+<hr class="trait"/>
+
+</p>
+
+
+</div>
+<div class="bloc1">
+<div class="bloc2">
+<p>	
+<h3>TP1 : environnement de travail, HTML</h3>
+<h4>Présentation Travail</h4>
+ <ul>
+                <li><a href="../TP1/photo1.jpg">Photo Criquet</a></li>
+
+                <li><a href="../TP1/photo2.jpg">Photo Criquet 2</a></li>
+
+                 <li><a href="../TP1/pp.html">Ma Première Page</a></li>
+
+		<li><a href="../TP1/table.html">Tableau</a></li>
+
+		<li><a href="../TP1/TP1_reponses_q.odt">Réponses aux questions</a></li>
+		
+
+            </ul>
+</p>
+</div>
+
+
+<div class="textali">
+
+Objectif : Apprendre à créer une page Web basique
+• Les balises de base du language (X)HTML
+• Insérer des images
+• Insérer des liens hypertextes
+• Faire des listes
+• Faire des tableaux
+<p><u>A retenir:</u> Le (X)HTML est un langage de présentation de données. C'est un langage utilisant des marqueurs. Il
+est très tolérant : en cas d'erreur ou d'oubli de certains marqueurs, il affichera tout de même quelque
+chose mais l'aspect obtenu sera certainement différent de celui souhaité.
+Une page (X)HTML n'est qu'une proposition d'affichage : c'est le navigateur de celui ou celle qui lira
+la page (et son environnement) qui est responsable de l'affichage final. Il faut donc utiliser au
+maximum des marqueurs basés sur le sens du texte plutôt que des marqueurs physiques qui cherchent
+à produire un effet visuel.</p>
+
+
+
+
+
+
+
+
+
+</div>
+</div>
+</div>
+<div class="foot">
+All rights reserved.
+</div>
+</body>
+</HTML>
